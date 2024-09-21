@@ -21,3 +21,4 @@ import string
 df = pd.read_csv('https://raw.githubusercontent.com/dD2405/Twitter_Sentiment_Analysis/master/train.csv')
 
 print(df.head())
+print(df.tail())
