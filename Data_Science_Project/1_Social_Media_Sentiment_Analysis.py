@@ -22,3 +22,5 @@ df = pd.read_csv('https://raw.githubusercontent.com/dD2405/Twitter_Sentiment_Ana
 
 print(df.head())
 print(df.tail())
+
+print(df.describe())
